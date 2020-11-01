@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-picquery-dev-20301-authRole",
+      "UnauthRoleArn": "arn:aws:iam::895488471381:role/amplify-picquery-dev-20301-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::895488471381:role/amplify-picquery-dev-20301-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-picquery-dev-20301-deployment",
+      "UnauthRoleName": "amplify-picquery-dev-20301-unauthRole",
+      "StackName": "amplify-picquery-dev-20301",
+      "StackId": "arn:aws:cloudformation:us-east-1:895488471381:stack/amplify-picquery-dev-20301/73dd3d50-1c81-11eb-8445-0a1b09a7e4bb",
+      "AmplifyAppId": "d3fkjopmnk2umb"
+    },
+    "categories": {
+      "auth": {
+        "picquery47f6b5da": {}
+      }
+    }
+  }
+}
