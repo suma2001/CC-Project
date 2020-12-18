@@ -22,7 +22,8 @@
         {
             "Effect": "Allow",
             "Action": [
-                "dynamodb:PutItem"
+                "dynamodb:PutItem",
+                "dynamodb:GetItem"
             ],
             "Resource": [
                 "arn:aws:dynamodb:us-east-1:895488471381:table/family_collection"
@@ -31,7 +32,14 @@
         {
             "Effect": "Allow",
             "Action": [
-                "rekognition:IndexFaces"
+                "rekognition:IndexFaces",
+                "rekognition:CompareFaces",
+                "rekognition:DetectFaces",
+                "rekognition:DetectLabels",
+                "rekognition:ListCollections",
+                "rekognition:ListFaces",
+                "rekognition:SearchFaces",
+                "rekognition:SearchFacesByImage"
             ],
             "Resource": "*"
         }
