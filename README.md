@@ -5,13 +5,13 @@ Specifications
 ### Frontend: 
 React JS
 
-### Cloud serbices used: 
-S3
-Lambda
-Rekognition
-Dynamo DB
-Cloud Watch
-Cognito
+### Cloud services used: 
+- S3
+- Lambda
+- Rekognition
+- Dynamo DB
+- Cloud Watch
+- Cognito
 
 ### Doc Link: 
 https://docs.google.com/document/d/15XKr2CrghQQbk6dga16zBqyoEMjN7e1OaCLxw7u1Y-g/edit#
